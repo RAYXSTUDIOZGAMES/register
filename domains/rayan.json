@@ -1,0 +1,10 @@
+{
+  "owner": {
+    "username": "RAYXSTUDIOZGAMES",
+    "email": "Rayan@exismic.xyz"
+  },
+  "record": {
+    "CNAME": "cname.vercel-dns.com",
+    "TXT": "vc-domain-verify=rayan.is-a.dev,a8f6124978fdf43aa1a4"
+  }
+}
